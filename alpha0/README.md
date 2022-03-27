@@ -66,21 +66,21 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ### Jetstream steps taken
 
-- **[composer require laravel/jetstream]**
+- **composer require laravel/jetstream**
 
-- **[php artisan jetstream:install livewire]**
+- **php artisan jetstream:install livewire**
 
-- **[npm install]**
+- **npm install**
 
-- **[npm run dev]**
+- **npm run dev**
 
-- **[php artisan migrate]**
+- **php artisan migrate**
 
 ### Liviwire steps taken
 
-- **[php artisan livewire:publish --config]**
+- **php artisan livewire:publish --config**
 
-- **[php artisan livewire:publish --assets]**
+- **php artisan livewire:publish --assets**
 
-- **[added the command to the post-autoload-dump scripts in the composer.json file : "@php artisan vendor:publish --force --tag=livewire:assets --ansi"]**
+- **added the command to the post-autoload-dump scripts in the composer.json file : "@php artisan vendor:publish --force --tag=livewire:assets --ansi"**
 
