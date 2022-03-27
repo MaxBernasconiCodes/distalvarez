@@ -15,7 +15,7 @@
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Jetstream steps taken
--**[documentation](https://laravel.com/docs)** 
+-**[documentation](https://jetstream.laravel.com/2.x/installation.html)** 
 
 - **composer require laravel/jetstream**
 
@@ -28,7 +28,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **php artisan migrate**
 
 ### Liviwire steps taken
--**[documentation](https://laravel.com/docs)** 
+-**[documentation](https://laravel-livewire.com/docs/2.x/installation)** 
 
 - **php artisan livewire:publish --config**
 
